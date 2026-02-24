@@ -1,0 +1,9 @@
+Id,Text,Shape,FillColor,X,Y,Width,Height
+9ef213ca-4ac6-471a-a785-8f8882050458,CI/CD pipelines,sticky,#4CAF50,0,0,300,200
+289ba367-5ef6-441f-ab61-34ac634b27a1,Database,sticky,#FF9800,600,0,300,200
+8828f5f8-baf7-4c2c-9941-262b8ba6f932,"Henk
+Developer
+Dept: Sales",sticky,#4CAF50,0,300,250,150
+96ab2437-0b56-425b-a85d-1a81822fd9ae,"Kees
+Manager
+Dept: Compliance",sticky,#FF9800,300,300,250,150
