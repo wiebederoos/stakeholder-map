@@ -1,0 +1,11 @@
+Id,Type,Shape,Text,FillColor,X,Y,Width,Height,FromId,ToId
+9303268b-e313-4a1f-9fdb-4a2811343181,shape,sticky,CI/CD pipelines,#4CAF50,0,0,300,200,,
+c273fb5f-7857-408a-809f-b7baa8761d87,shape,sticky,Database,#FF9800,600,0,300,200,,
+f6576c7f-ceca-4a40-830a-881c3d94ccdc,shape,sticky,"Henk
+Developer
+Dept: Sales",#4CAF50,0,300,250,150,,
+58c760eb-4f4b-4396-9f21-000b5fa9651e,connector,,,,,,,,f6576c7f-ceca-4a40-830a-881c3d94ccdc,9303268b-e313-4a1f-9fdb-4a2811343181
+40117bf4-406c-4ec9-8597-7a76f56aa438,shape,sticky,"Kees
+Manager
+Dept: Compliance",#FF9800,300,300,250,150,,
+7811bd53-ebef-4b24-bd41-828c8b324ab1,connector,,,,,,,,40117bf4-406c-4ec9-8597-7a76f56aa438,c273fb5f-7857-408a-809f-b7baa8761d87
